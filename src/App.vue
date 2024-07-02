@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text p-12 text-center text-3xl font-bold bg-green-500 text-gray-50">Demo Provide and Inject</h1>
+    <h1 class="p-12 text-3xl font-bold text-center bg-green-500 text text-gray-50">Demo Provide and Inject</h1>
     <ProductList :product_data="productList" />
   </div>
 </template>
@@ -15,7 +15,7 @@ import ProductList from './components/ProductList.vue'
 const productList = ref([
   {
     id: Date.now(),
-    name: 'Samsung S23',
+    name: 'Samsung S22321312',
     category: 'Smart Phone',
     qty: 5,
   },
