@@ -18,18 +18,6 @@ const productList = ref([
     name: 'Samsung S4',
     category: 'Smart Phone',
     qty: 5,
-  },
-  {
-    id: Date.now(),
-    name: 'Iphone 15 Pro Max',
-    category: 'Smart Phone',
-    qty: 3,
-  },
-  {
-    id: Date.now(),
-    name: 'Xiaomi Mi 20',
-    category: 'Smart Phone',
-    qty: 5,
   }
 ])
 
