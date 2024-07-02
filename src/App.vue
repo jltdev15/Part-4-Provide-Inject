@@ -15,7 +15,7 @@ import ProductList from './components/ProductList.vue'
 const productList = ref([
   {
     id: Date.now(),
-    name: 'Samsung S22321312',
+    name: 'Samsung S4',
     category: 'Smart Phone',
     qty: 5,
   },
